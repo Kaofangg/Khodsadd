@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": "Monkeyman",
+      "name": "Monkey Man",
+      "password": "12345",
+      "email": "monkeyman@gmail.com",
+      "phone": "8989898989",
+      "role": "admin",
+      "image": ""
+    },
+    {
+      "id": "Gollum",
+      "name": "sdasd",
+      "password": "1234",
+      "email": "sdada@gmail.com",
+      "phone": "4324234",
+      "image": ""
+    }
+  ]
+}
